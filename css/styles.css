@@ -13,6 +13,10 @@ button {
     cursor: pointer;
 }
 
+p {
+    font-weight: normal;
+}
+
 img {
     display: block;
 }
@@ -91,4 +95,56 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
+}
+
+.team-list-item {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+.team-list-text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+.portfolio-list-title{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+}
+
+.portfolio-list-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.logo-footer {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16667;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #f4f4fd;
+}
+
+.footer-page{
+    background-color: #2e2f42;;
+}
+
+.footer-text{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #f4f4fd;
 }

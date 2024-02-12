@@ -22,22 +22,22 @@ img {
 }
 body {
     font-family: 'Roboto', sans-serif;
-    color: #2e2f42;
-    background-color: E5E5E5;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.166;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 
 }
 
-.logo-violet{
-    color: #4d5ae5;
+.logo-part-header{
+    color: #2e2f42;
 }
 
 .menu-item {
@@ -128,12 +128,6 @@ body {
     color: #434455;
 }
 .logo-footer {
-    font-family: "Raleway", sans-serif;
-        font-weight: 700;
-        font-size: 18px;
-        line-height: 1.16667;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
         color: #f4f4fd;
 }
 

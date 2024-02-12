@@ -55,7 +55,9 @@ body {
     color: #434455;
     font-style: normal
 }
-.address-item:hover,
+.address-item:hover{
+    color: #404bbf;
+}
 .address-item:focus
 {
     color:#404bbf ;

@@ -13,13 +13,6 @@ button {
     cursor: pointer;
 }
 
-p {
-    font-weight: normal;
-}
-
-img {
-    display: block;
-}
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -45,6 +38,12 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.menu-item:hover,
+.menu-item:focus
+{
+    color: #404bbf;
 }
 .address{
     font-weight: 400;
@@ -52,6 +51,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-style: normal
+}
+.address:hover,
+.address:focus
+{
+    color:#404bbf ;
 }
 .hero{
     background-color: #2e2f42;
